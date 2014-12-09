@@ -1,3 +1,4 @@
+#This program creates blocks beneath the player
 import mcpi.minecraft as minecraft
 import time
 mc = minecraft.Minecraft.create()
